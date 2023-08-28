@@ -19,7 +19,7 @@ export default function WhatFengShuiCanDo() {
                             <div className="card card-cover h-100 overflow-hidden rounded-4 shadow-lg" style={{ backgroundColor: '#D9D9D9' }}>
                                 <div className="d-flex flex-column h-100 p-5 pb-5 text-dark text-shadow-1 align-items-center">
                                     <img src={img1} alt="" className="img-fluid" width='150' />
-                                    <h3 className="lh-1 pt-3 fw-bold">ASSESMENT</h3>
+                                    <h3 className="lh-1 pt-3 fw-bold">ASSESSMENT</h3>
                                     <p className='text-center pt-2'>Assess whether the energy flow or the quality
                                         of the vibration in that area is positive or negative of the building, workspace or home.</p>
                                 </div>
