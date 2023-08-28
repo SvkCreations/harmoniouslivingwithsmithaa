@@ -11,8 +11,8 @@ export default function WhatFengShuiCanDo() {
     return (
         <div>
             <div className='container-fluid do px-4 py-3 p-md-5'>
-                <h2 className="display-6 fw-bold mt-5 mx-3 mx-md-5 pt-5">WHAT FENG-SHUI CAN DO</h2>
-                <p className='mx-3 mx-md-5'>The 5 things That Feng-shui can do:</p>
+                <h2 className="display-6 fw-bold mt-5 mx-3 mx-md-5 pt-5" data-aos="flip-down">WHAT FENG-SHUI CAN DO</h2>
+                <p className='mx-3 mx-md-5' data-aos="flip-up">The 5 things That Feng-shui can do:</p>
                 <div className="container-fluid px-3 px-md-5 pb-5 mb-5" id="custom-cards">
                     <div className="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-2" >
                         <div className="col" data-aos="flip-up">
