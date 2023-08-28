@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.876ee893.css",
-    "main.js": "/static/js/main.f3aeb842.js",
-    "static/js/787.663ae2ac.chunk.js": "/static/js/787.663ae2ac.chunk.js",
-    "static/media/bg-sm.jpg": "/static/media/bg-sm.97201c9e9d90073c972c.jpg",
-    "static/media/bg.jpg": "/static/media/bg.43724fa8ca8cba36912e.jpg",
-    "static/media/why-bg.webp": "/static/media/why-bg.e44fb7d95dd1d9da8056.webp",
-    "static/media/main-bg.jpg": "/static/media/main-bg.66cd682dc8409f00fbed.jpg",
-    "static/media/smita.jpeg": "/static/media/smita.79fb307ee180fbc7c2a0.jpeg",
-    "static/media/logo.png": "/static/media/logo.96ff5a0306dbdf8821b2.png",
-    "static/media/wealth.png": "/static/media/wealth.943a95b93150b885dbb9.png",
-    "static/media/harmony.png": "/static/media/harmony.39206ffee28a2192ce3f.png",
-    "static/media/corrective.png": "/static/media/corrective.1f67400accee035464cc.png",
-    "static/media/positive.png": "/static/media/positive.f29acc3d59b4c63f613b.png",
-    "index.html": "/index.html",
-    "main.876ee893.css.map": "/static/css/main.876ee893.css.map",
-    "main.f3aeb842.js.map": "/static/js/main.f3aeb842.js.map",
-    "787.663ae2ac.chunk.js.map": "/static/js/787.663ae2ac.chunk.js.map"
+    "main.css": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/css/main.15c319d0.css",
+    "main.js": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/js/main.dfcdbc01.js",
+    "static/js/787.663ae2ac.chunk.js": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/js/787.663ae2ac.chunk.js",
+    "static/media/bg-sm.jpg": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/bg-sm.97201c9e9d90073c972c.jpg",
+    "static/media/bg.jpg": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/bg.43724fa8ca8cba36912e.jpg",
+    "static/media/why-bg.webp": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/why-bg.e44fb7d95dd1d9da8056.webp",
+    "static/media/main-bg.jpg": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/main-bg.66cd682dc8409f00fbed.jpg",
+    "static/media/smita.jpeg": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/smita.79fb307ee180fbc7c2a0.jpeg",
+    "static/media/logo.png": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/logo.96ff5a0306dbdf8821b2.png",
+    "static/media/wealth.png": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/wealth.943a95b93150b885dbb9.png",
+    "static/media/harmony.png": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/harmony.39206ffee28a2192ce3f.png",
+    "static/media/corrective.png": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/corrective.1f67400accee035464cc.png",
+    "static/media/positive.png": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/media/positive.f29acc3d59b4c63f613b.png",
+    "index.html": "/svkcreations.github.io/harmoniouslivingwithsmithaa/index.html",
+    "main.15c319d0.css.map": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/css/main.15c319d0.css.map",
+    "main.dfcdbc01.js.map": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/js/main.dfcdbc01.js.map",
+    "787.663ae2ac.chunk.js.map": "/svkcreations.github.io/harmoniouslivingwithsmithaa/static/js/787.663ae2ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.876ee893.css",
-    "static/js/main.f3aeb842.js"
+    "static/css/main.15c319d0.css",
+    "static/js/main.dfcdbc01.js"
   ]
 }
