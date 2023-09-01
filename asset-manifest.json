@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/harmoniouslivingwithsmithaa/static/css/main.732cdd39.css",
-    "main.js": "/harmoniouslivingwithsmithaa/static/js/main.da14225b.js",
+    "main.js": "/harmoniouslivingwithsmithaa/static/js/main.1aa075cb.js",
     "static/js/787.663ae2ac.chunk.js": "/harmoniouslivingwithsmithaa/static/js/787.663ae2ac.chunk.js",
     "static/media/bg-sm.jpg": "/harmoniouslivingwithsmithaa/static/media/bg-sm.97201c9e9d90073c972c.jpg",
     "static/media/bg.jpg": "/harmoniouslivingwithsmithaa/static/media/bg.43724fa8ca8cba36912e.jpg",
@@ -10,16 +10,17 @@
     "static/media/smita.jpeg": "/harmoniouslivingwithsmithaa/static/media/smita.79fb307ee180fbc7c2a0.jpeg",
     "static/media/logo.png": "/harmoniouslivingwithsmithaa/static/media/logo.96ff5a0306dbdf8821b2.png",
     "static/media/wealth.png": "/harmoniouslivingwithsmithaa/static/media/wealth.943a95b93150b885dbb9.png",
+    "static/media/loader.gif": "/harmoniouslivingwithsmithaa/static/media/loader.bafa5c7278672cf7ae29.gif",
     "static/media/harmony.png": "/harmoniouslivingwithsmithaa/static/media/harmony.39206ffee28a2192ce3f.png",
     "static/media/corrective.png": "/harmoniouslivingwithsmithaa/static/media/corrective.1f67400accee035464cc.png",
     "static/media/positive.png": "/harmoniouslivingwithsmithaa/static/media/positive.f29acc3d59b4c63f613b.png",
     "index.html": "/harmoniouslivingwithsmithaa/index.html",
     "main.732cdd39.css.map": "/harmoniouslivingwithsmithaa/static/css/main.732cdd39.css.map",
-    "main.da14225b.js.map": "/harmoniouslivingwithsmithaa/static/js/main.da14225b.js.map",
+    "main.1aa075cb.js.map": "/harmoniouslivingwithsmithaa/static/js/main.1aa075cb.js.map",
     "787.663ae2ac.chunk.js.map": "/harmoniouslivingwithsmithaa/static/js/787.663ae2ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.732cdd39.css",
-    "static/js/main.da14225b.js"
+    "static/js/main.1aa075cb.js"
   ]
 }
